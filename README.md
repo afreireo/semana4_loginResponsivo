@@ -1,5 +1,5 @@
 # Diseño Responsivo del Inicio de Sesión de una Aplicación Móvil
-Uso de controladores basicos de Android Studio para el diseño Responsivo
+Uso de controladores basicos de Android Studio para el diseño Responsivo, tomando como ejemplo la siguiente imagen:
 
 <img src="ejecucion/Referencia.jpeg" alt="referencia" width="400">
 
